@@ -122,7 +122,7 @@ export const SettingsSecurityApprovedAccessDomain = () => {
                     onChange(domain);
                   }}
                   fullWidth
-                  placeholder="yourdomain.com"
+                  placeholder="bestroofingnow.com"
                   error={error?.message}
                 />
               )}
@@ -146,7 +146,7 @@ export const SettingsSecurityApprovedAccessDomain = () => {
                   onChange={onChange}
                   fullWidth
                   error={error?.message}
-                  rightAdornment={`@${domain.length !== 0 ? domain : 'your-domain.com'}`}
+                  rightAdornment={`@${domain.length !== 0 ? domain : 'bestroofingnow.com'}`}
                 />
               )}
             />

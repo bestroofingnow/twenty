@@ -73,7 +73,7 @@ export const SettingsCustomDomain = () => {
               value={value}
               type="text"
               onChange={onChange}
-              placeholder="crm.yourdomain.com"
+              placeholder="crm.bestroofingnow.com"
               error={error?.message}
               fullWidth
             />

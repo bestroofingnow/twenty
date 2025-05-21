@@ -158,6 +158,15 @@ Below are a few features we have implemented to date:
 
   Thanks to these amazing services that we use and recommend for UI testing (Chromatic), code review (Greptile), catching bugs (Sentry) and translating (Crowdin).
 
+## Custom Setup for Best Roofing Now
+
+This fork demonstrates how Twenty can be configured for a specific business. Example values used in the documentation have been replaced with information for **Best Roofing Now**.
+
+- Workspace domain: `bestroofingnow.com`
+- Contact email: `contact@bestroofingnow.com`
+
+Update your `.env` files and workspace settings with values that match your own organization.
+
 
 # Join the Community
 
