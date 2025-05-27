@@ -171,3 +171,11 @@ Below are a few features we have implemented to date:
 
 
 
+
+## Call Bot Example
+
+This repository now includes a minimal example of an Express backend and React frontend for automating phone call campaigns with [Vapi.ai](https://www.vapi.ai/).  The new packages are located in `packages/call-bot-server` and `packages/call-bot-client`.
+
+The server exposes REST endpoints for authentication, contact management and starting call campaigns.  The React app provides a simple dashboard to upload contacts and trigger campaigns.
+
+These packages are for demonstration purposes and are not integrated with the main Twenty application.

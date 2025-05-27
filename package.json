@@ -377,7 +377,9 @@
       "packages/twenty-website",
       "packages/twenty-e2e-testing",
       "packages/twenty-shared",
-      "tools/eslint-rules"
+      "tools/eslint-rules",
+      "packages/call-bot-server",
+      "packages/call-bot-client"
     ]
   }
 }
